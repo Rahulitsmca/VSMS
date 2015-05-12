@@ -1,0 +1,6 @@
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\bin\VSMS.dll.config
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\bin\VSMS.dll
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\bin\VSMS.pdb
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\obj\Debug\VSMS.dll
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\obj\Debug\VSMS.pdb
+c:\users\rahulgupta\documents\visual studio 2013\Projects\VSMS\VSMS\obj\Debug\VSMS.csprojResolveAssemblyReference.cache
